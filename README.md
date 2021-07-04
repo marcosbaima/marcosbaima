@@ -1,4 +1,4 @@
-<h2 align="center">Helloooooo!</h1>
+<h2 align="center">Hello my Frend!</h1>
 
 <h1 align="center">Welcome to my profile 👋</h1>
 
@@ -18,7 +18,7 @@
 
    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=nodejs&logoColor=white"/>
 
   </span>
 
