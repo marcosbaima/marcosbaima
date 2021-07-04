@@ -122,7 +122,7 @@
 
  <span>  
 
-  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=express&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
