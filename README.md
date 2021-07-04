@@ -20,6 +20,10 @@
 
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=node&logoColor=white"/>
    
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+   
    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 
   </span>
@@ -122,7 +126,7 @@
 
  <span>  
 
-  <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
