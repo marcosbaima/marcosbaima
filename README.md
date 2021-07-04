@@ -193,28 +193,5 @@
 
 
 
-Segue aqui alguns links com muito mais informação para a evolução do seu github!
-
-
-
-Repositório com muito material aplicado
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-
-
-
-
-Artigo com links e referências muito boas para você editar na mão.
-
-https://natansl.medium.com/criando-um-readme-para-seu-perfil-no-github-6eb119218c4
-
-
-
-Quer criar um README sem escrever uma linha de código?
-
-Utilize o gerador Markdown
-
-
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
 
 
