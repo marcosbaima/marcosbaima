@@ -20,11 +20,7 @@
 
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=node&logoColor=white"/>
    
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-   
-   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-   
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
 
   </span>
 
@@ -92,9 +88,20 @@
 
   </li>
 
-  
+  <h3 align="center"> 🚀 Database </h3>
 
+  <div align="center">
 
+   <span>
+
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+   
+  </span>
+ 
+</div>
+ 
 
 
 
