@@ -152,7 +152,7 @@
 
   
 
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=ralfprezia&show_icons=true&theme=tokyonight)
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosbaima&show_icons=true&theme=tokyonight)
 
 
 
@@ -162,7 +162,7 @@
 
 
 
-Agora se você estiver bem na pegada, segue aqui alguns links com muito mais informação para a evolução do seu github!
+Segue aqui alguns links com muito mais informação para a evolução do seu github!
 
 
 
