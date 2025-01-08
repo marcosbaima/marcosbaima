@@ -20,6 +20,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Basic-9458F7?style=for-the-badge&logo=visual-basic&logoColor=white"/>
   <img src="https://img.shields.io/badge/VBA-2746A1?style=for-the-badge&logo=visual-basic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=springcloud&logoColor=white"/>
 </div>
 
 ---
