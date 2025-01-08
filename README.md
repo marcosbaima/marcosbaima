@@ -23,6 +23,13 @@
 
 ---
 
+### 🌐 **Tecnologias Web**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
+---
+
 ### 📚 **Bancos de Dados**
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
