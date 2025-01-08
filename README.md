@@ -102,6 +102,19 @@
 
 ---
 
+### 🏗️ **Arquiteturas e Padrões**
+<div align="center">
+  <img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Serverless-007BFF?style=for-the-badge&logo=aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CQRS-009C55?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful%20API-25D366?style=for-the-badge&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-6A1B9A?style=for-the-badge&logo=angular&logoColor=white"/>
+</div>
+
+---
+
 ### 📈 **Minhas Estatísticas**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcosbaima&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
