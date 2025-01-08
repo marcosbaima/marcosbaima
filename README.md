@@ -59,6 +59,18 @@
 
 ---
 
+### ⚙️ **CI/CD e Automação**
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TravisCI-3E8BFF?style=for-the-badge&logo=travis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-000000?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20CodePipeline-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab%20CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</div>
+
+---
+
 ### 📩 **Sistemas de Mensageria**
 <div align="center">
   <img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
